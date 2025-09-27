@@ -43,6 +43,3 @@ Open `queries.sql` to see load-bearing queries (top users, ARPU, sales by catego
 ## Screenshots & Media
 Find ready screenshots of query outputs in `images/` and an animated GIF `images/revenue_build.gif` demonstrating category revenue build-up.
 
-## License
-MIT © Generated project
-
